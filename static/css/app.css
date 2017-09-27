@@ -1,0 +1,14 @@
+h1{
+	font-size: 100px;
+	color: darkgray;
+	font-family: helvetica;
+}
+
+form{
+	color: white;
+	display: inline-flex;
+}
+
+.list-group-item{
+	margin: 10px;
+}
